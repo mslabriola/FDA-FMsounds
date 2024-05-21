@@ -1,0 +1,19 @@
+DATA DESCRIPTION 
+
+".txt" files: selection tables generated using Raven Pro, each one containing one row for               
+              each selected sound. 
+
+
+"rvn.dat.RData": data frame with 2529 rows and 35 variables, made up of all selection tables.
+                 Variables include:
+
+                 - "Peak Freq Contour (Hz)": automatic “Peak Frequency Contour” (PFC) measurement in RavenPro (i.e., 
+                    frequency values that correspond to the maximum sound intensity sampled at intervals of 2.6 ms,
+                    returning a series of numbers representing the predominant sound)
+
+                 - ID_Category: identifier of the unique sound contour/frequency-modulation pattern
+
+
+"SW19-23explanatoryvar.RData": data frame containing context-related information for each 
+                             observation/sound in the rvn.dat data frame
+
