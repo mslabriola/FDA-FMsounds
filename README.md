@@ -1,4 +1,4 @@
-# A Functiona Data Anaysis approach for modelling frequency-modulated tonal sounds in animal communication
+# A Functional Data Anaysis approach for modelling frequency-modulated tonal sounds in animal communication
 We propose the application of a Functional Data Analysis (FDA) approach to model frequency-modulation (FM) patterns, which entails the transformation of acoustic signals into continuous functions. 
 
 Here we have created an intuitive Raven-to-R FDA workflow for modelling tonal sounds. Two potential applications for classification aims (functional clustering) and FM analysis in 
