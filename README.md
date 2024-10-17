@@ -5,7 +5,7 @@ Here we have created an intuitive Raven-to-R FDA workflow for modelling tonal so
 relation to contextual factors (functional regression) are shown. 
 
 For illustrative purposes, we also supply data on FM patterns (contours) of signature whistles emitted by bottlenose dolphins (Tursiops truncatus), 
-given their high degree of acoustic variability and potential information content. The available data is a subset of the data that was analysed in the publication.
+given their acoustic variability and potential information content. The available data is a subset of the data that was analysed in the publication.
 
 
 
